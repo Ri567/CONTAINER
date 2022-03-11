@@ -1,0 +1,56 @@
+
+#title{
+    background-color: #ff4c68;
+    color: #fff
+}
+
+.h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 900px;
+    line-height: 1.5px;
+}
+
+/* NAVBAR */
+
+.navbar{
+    font-size: 1.5rem;
+}
+
+.nav-item{
+ padding: 0px 18px;   
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light', sans-serif;
+}
+
+/* DOWNLOAD BUTTON */
+
+#DownBut1{
+    margin: 5% 3% 5% 0%;
+}
+
+#DownBut2{
+    margin: 5% 3% 5% 0%;
+}
+
+/* DOG */
+
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    padding: 30px;
+    text-align: center;
+}
+
+/* FEATURES */
+
+#features{
+    padding: 7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+}
